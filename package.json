@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^6.2.1",
     "sinon": "^7.5.0"
-  }
+  },
+  "description": "## Objectives",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stef-codes/react-simple-state-lab-online-web-ft-100719.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stef-codes/react-simple-state-lab-online-web-ft-100719/issues"
+  },
+  "homepage": "https://github.com/stef-codes/react-simple-state-lab-online-web-ft-100719#readme"
 }
